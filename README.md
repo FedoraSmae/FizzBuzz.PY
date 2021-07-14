@@ -1,2 +1,2 @@
 # FizzBuzz.PY
-FizzBuzz built on Python
+FizzBuzz built on Python nothing complicated, just simple FizzBuzz
